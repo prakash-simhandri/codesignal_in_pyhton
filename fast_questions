@@ -1,0 +1,5 @@
+def add(param1, param2):
+    total=param1+param2
+    return (total)
+hello=add(2,5)
+print (hello)

@@ -1,0 +1,6 @@
+def shapeArea(n):
+    d=[]
+    if n==1:
+        return 1
+    d=(n*n)+(n-1)*(n-1)
+    return d
